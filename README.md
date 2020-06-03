@@ -1,5 +1,5 @@
 # Kaggle Titanic Competition
-This notebook is about prediting the mortality ie survival of passengers of the Titanic for Kaggle. It contains a quick but still complete data science life cycle from data cleaning, feature engineering to model selection and prediction. It comprises a train-validation-test split set-up and is based on pipes to prevent data leakage. The score kaggle score so far is 78,5 percent so far.
+This notebook is about prediting the mortality ie survival of passengers of the Titanic for Kaggle. It contains a quick but still complete data science life cycle from data cleaning, feature engineering to model selection and prediction. It comprises a train-validation-test split set-up and is based on pipes to prevent data leakage. The score kaggle score so far is 78,5 percent.
 
 ![](https://www.historycoloredglasses.com/wp-content/uploads/2017/10/DSCN5621-750x500.jpg)
 ## Data Cleaning 
